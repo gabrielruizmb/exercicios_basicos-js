@@ -1,4 +1,4 @@
-function reajustarSalário(){
+function reajustarSalário() {
   let salário = Number(window.prompt('Insira o salário: '));
   let reajuste = Number(window.prompt('Insira o percentual de reajuste: '));
   salário += salário * reajuste / 100;

@@ -1,4 +1,4 @@
-function calcularMédiaPonderada(){
+function calcularMédiaPonderada() {
   let nota1 = Number(window.prompt('Insira a primeira nota: '));
   let nota2 = Number(window.prompt('Insira a segunda nota: '));
   let nota3 = Number(window.prompt('Insira a terceira nota: '));
